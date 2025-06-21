@@ -255,12 +255,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 2. Graves, A., et al. "Connectionist temporal classification." ICML 2006.
 3. Chorowski, J., et al. "Attention-based models for speech recognition." NIPS 2015.
 
-## 📞 Contact
-
-Your Name - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/speech-recognition-transformer](https://github.com/yourusername/speech-recognition-transformer)
-
 ---
 
 ⭐ Star this repository if you find it helpful!
